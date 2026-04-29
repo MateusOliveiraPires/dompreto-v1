@@ -1,10 +1,10 @@
-export const BOOKING_PHONE = '5531999999999';
-export const BOOKING_EMAIL = 'contato@dompreto.com';
+export const BOOKING_PHONE = '5531988372585';
+export const BOOKING_EMAIL = 'Dompretoband@gmail.com';
 
 export const SOCIAL_LINKS = [
-  { label: 'Instagram', href: '#' },
+  { label: 'Instagram', href: 'https://www.instagram.com/dompretooficial/' },
   { label: 'Spotify', href: 'https://open.spotify.com/' },
-  { label: 'YouTube', href: 'https://www.youtube.com/' },
+  { label: 'YouTube', href: 'https://www.youtube.com/@dompreto2528' },
 ];
 
 export const HERO_BADGES = [
@@ -48,7 +48,7 @@ export const TRACKS = [
     description:
       'Canções que carregam estrada, presença e a força de um artista feito para ser visto ao vivo.',
     platform: 'YouTube',
-    href: 'https://www.youtube.com/',
+    href: 'https://www.youtube.com/watch?v=fhTUftT5x-Q',
   },
   {
     title: 'Assinatura autoral',
