@@ -13,7 +13,7 @@ import { applySeo } from '../utils/seo';
 function App() {
   useEffect(() => {
     applySeo({
-      title: 'Dom Preto | Artista independente de Belo Horizonte',
+      title: 'Dom Preto',
       description:
         'Dom Preto é um artista independente de Belo Horizonte que mistura blues, R&B, rock, MPB, rap e pop em uma identidade sonora forte, brasileira e autoral.',
     });
