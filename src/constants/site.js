@@ -3,7 +3,7 @@ export const BOOKING_EMAIL = 'Dompretoband@gmail.com';
 
 export const SOCIAL_LINKS = [
   { label: 'Instagram', href: 'https://www.instagram.com/dompretooficial/' },
-  { label: 'Spotify', href: 'https://open.spotify.com/' },
+  { label: 'Spotify', href: 'https://open.spotify.com/artist/4ijypQblohoAy9sICvxa2z?si=aIrvKO4ZRJmfTKP5AqglGA' },
   { label: 'YouTube', href: 'https://www.youtube.com/@dompreto2528' },
 ];
 
@@ -41,7 +41,7 @@ export const TRACKS = [
     description:
       'Um recorte do encontro entre peso, suingue e palavra que atravessa a identidade sonora de Dom Preto.',
     platform: 'Spotify',
-    href: 'https://open.spotify.com/',
+    href: 'https://open.spotify.com/artist/4ijypQblohoAy9sICvxa2z?si=aIrvKO4ZRJmfTKP5AqglGA',
   },
   {
     title: 'Pulso de palco',
@@ -55,6 +55,6 @@ export const TRACKS = [
     description:
       'Mais de 200 músicas autorais atravessando blues, R&B, rock, MPB, rap e pop sem perder a raiz.',
     platform: 'Spotify',
-    href: 'https://open.spotify.com/',
+    href: 'https://open.spotify.com/artist/4ijypQblohoAy9sICvxa2z?si=aIrvKO4ZRJmfTKP5AqglGA',
   },
 ];
