@@ -21,7 +21,7 @@ function MusicSection() {
           <div className="platform-actions">
             <Button
               as="a"
-              href="https://open.spotify.com/"
+              href="https://open.spotify.com/artist/4ijypQblohoAy9sICvxa2z?si=aIrvKO4ZRJmfTKP5AqglGA"
               target="_blank"
               rel="noreferrer"
               variant="light"
@@ -31,7 +31,7 @@ function MusicSection() {
 
             <Button
               as="a"
-              href="https://www.youtube.com/"
+              href="https://www.youtube.com/@dompreto2528"
               target="_blank"
               rel="noreferrer"
               variant="secondary"
